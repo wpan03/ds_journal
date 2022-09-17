@@ -1,5 +1,5 @@
 ---
-title: "ds_journal"
+title: "Journal of Data Science Journey"
 listing:
   contents: posts
   sort: "date desc"
